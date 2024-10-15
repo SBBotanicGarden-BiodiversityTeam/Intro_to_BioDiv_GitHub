@@ -1,3 +1,7 @@
+# Some basic instruction for creating repository with an .md (markdown) file
+
+Normal text can be written, well, normally with no hash (#)
+
 # Headers
     # H1
     ## H2
