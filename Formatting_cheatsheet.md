@@ -53,7 +53,7 @@ Strikethrough with two tildes. ~~Scratch this.~~
 
 # Lists
 
-1. First ordered list item
+1. First list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
