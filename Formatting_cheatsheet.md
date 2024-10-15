@@ -103,12 +103,8 @@ There are two ways to create links.
 
 [You can use numbers for reference-style link definitions][1]
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+2. plain ol' URLs in angle brackets will automatically get turned into links. 
+https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
 
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[arbitrary case-insensitive reference text]: (https://www.cch2.org/portal/collections/search/index.php)
+[1]: (https://peerj.com/preprints/3159v2/)
