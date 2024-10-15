@@ -8,9 +8,15 @@ A markdown file help to keep track of your pipeline and parameters you used so t
 Before we get into formatting, the green Commit Changes button at the top right is key. Once you have written something in the window, click commit changes, click commit changes again. You will see the fruits of what you have written in html format and also essentially functions as a `Save` button. If you close the window with out commiting changes, you will lose whatever you just did before the most recent "Commit Changes". If you want to change anything click on the pen icon at the top right. 
 
 # Formatting an .md file
+For all formatting examples, if possible I will put what is typed into the codespace as well as what that looks like once we comit changes.
+To put anything in codespace window, you just indent those lines one or more tabs:
+
+    To put anything in codespace window, you just indent those lines one or more tabs:
 
 Normal text can be written, well, normally with no hash (#)
 
+        Normal text can be written, well, normally with no hash (#)
+    
 # Headers
     # H1
     ## H2
