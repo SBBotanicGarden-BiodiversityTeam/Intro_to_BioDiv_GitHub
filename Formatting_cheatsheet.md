@@ -100,5 +100,7 @@ https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
 1: https://peerj.com/preprints/3159v2/
 
 ## Table of contents
-Similar to linking but within your doc. Basically 
+Similar to linking but within your doc. The format is:  
+`[whatever text you want in table](#exact-text-you-want-to-link-to-no-caps-no-symbols-dash-separated)`
+
 [1. Top of page to Basic instruction](#basic-instruction-for-creating-repository-with-an-md-markdown-file)
