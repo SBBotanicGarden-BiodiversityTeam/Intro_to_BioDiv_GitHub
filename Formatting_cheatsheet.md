@@ -92,13 +92,16 @@ There are two ways to create links.
 1. Hyperlinked text:
     [hyperlinked text to CCH2](https://www.cch2.org/portal/collections/search/index.php)
     [Reference to a repository](../path/to/repository) \
-    You can use numbers for reference-style link definitions[1](#1)
-
+    
 2. plain ol' URLs in angle brackets will automatically get turned into links. 
 https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
 
-1: https://peerj.com/preprints/3159v2/
-
+        1. Hyperlinked text:
+            [hyperlinked text to CCH2](https://www.cch2.org/portal/collections/search/index.php)
+            [Reference to a repository](../path/to/repository) \
+            
+        2. plain ol' URLs in angle brackets will automatically get turned into links. 
+        https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
 ## Table of contents
 Similar to linking but within your doc. The format is:  
 `[whatever text you want in table](#exact-text-you-want-to-link-to-no-caps-no-symbols-dash-separated)`
