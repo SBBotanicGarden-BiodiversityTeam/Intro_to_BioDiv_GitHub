@@ -9,15 +9,20 @@ Before we get into formatting, the green Commit Changes button at the top right 
 
 # Formatting an .md file
 For all formatting examples, if possible I will put what is typed into the codespace as well as what that looks like once we comit changes.
-To put anything in codespace window, you just indent those lines one or more tabs:
-
-        To put anything in codespace window, you just indent those lines one or more tabs:
 
 Normal text can be written, well, normally with no hash (#)
 
     Normal text can be written, well, normally with no hash (#)
-    
-# Headers
+
+To put anything in codespace window, you just indent those lines one or more tabs:
+
+        To put anything in codespace window, you just indent those lines one or more tabs:
+
+To put filenames or short lines of code into `code font` you add ticks around it. This has to be the tick marks found on the same key as the tilda `~`. 
+
+        To put `filenames` or short lines of code into `code font` you add ticks around it.
+
+## Headers
     # H1
     ## H2
     ### H3
