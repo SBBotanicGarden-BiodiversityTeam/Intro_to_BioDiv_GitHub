@@ -11,11 +11,11 @@ Before we get into formatting, the green Commit Changes button at the top right 
 For all formatting examples, if possible I will put what is typed into the codespace as well as what that looks like once we comit changes.
 To put anything in codespace window, you just indent those lines one or more tabs:
 
-    To put anything in codespace window, you just indent those lines one or more tabs:
+        To put anything in codespace window, you just indent those lines one or more tabs:
 
 Normal text can be written, well, normally with no hash (#)
 
-        Normal text can be written, well, normally with no hash (#)
+    Normal text can be written, well, normally with no hash (#)
     
 # Headers
     # H1
