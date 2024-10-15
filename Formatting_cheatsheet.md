@@ -17,6 +17,7 @@ Normal text can be written, well, normally with no hash (#)
 To put anything in codespace window, you just indent those lines one or more tabs:
 
         To put anything in codespace window, you just indent those lines one or more tabs:
+If you have many lines of code you want in codespace, highlight the whole block and tab it all at once.
 
 To put filenames or short lines of code into `code font` you add ticks around it. This has to be the tick marks found on the same key as the tilda `~`. 
 
