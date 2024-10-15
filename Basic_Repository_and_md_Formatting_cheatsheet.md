@@ -91,7 +91,7 @@ Strikethrough with two tildes. ~~Scratch this.~~
 There are two ways to create links.
 1. Hyperlinked text:  
     [hyperlinked text to CCH2](https://www.cch2.org/portal/collections/search/index.php) \
-    [Reference to a repository](../../SBBotanicGarden-BiodiversityTeam/)
+    [Reference to a repository](../../SBBotanicGarden-BiodiversityTeam/IPYRAD_STRUCTURE/Structure_instructitons.md)
 2. plain ol' URLs in angle brackets will automatically get turned into links. 
 https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
 
