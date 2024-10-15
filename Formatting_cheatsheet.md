@@ -92,7 +92,7 @@ There are two ways to create links.
 1. Hyperlinked text:
     [hyperlinked text to CCH2](https://www.cch2.org/portal/collections/search/index.php)
     [Reference to a repository](../path/to/repository) \
-    [You can use numbers for reference-style link definitions](#1:)
+    You can use numbers for reference-style link definitions[1](#1)
 
 2. plain ol' URLs in angle brackets will automatically get turned into links. 
 https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
