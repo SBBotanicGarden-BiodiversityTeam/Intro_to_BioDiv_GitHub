@@ -82,8 +82,8 @@ Strikethrough with two tildes. ~~Scratch this.~~
                     + Or pluses
                     * All will be bullet points
         1. Actual numbers don't matter, just that it's a number
-        [spaces]1. Ordered sub-list
-        [spaces]2. Ordered sub-list  
+        [spaces]1. Ordered sub-list will change this 1 to i 
+        [spaces]2. Ordered sub-list will change this 2 to ii
         4. Another item.
   
       [3spaces]You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown). \
