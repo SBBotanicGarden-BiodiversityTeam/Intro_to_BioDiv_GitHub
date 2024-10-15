@@ -6,16 +6,17 @@
     ##### H5
     ###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
- 
-Alt-H1
-======
+# Emphasis
 
-    Alt-H1
-    ======
+    Italics with *asterisks* or _underscores_.
 
-Alt-H2
-------
+    Bold, with double **asterisks** or double __underscores__.
 
-    Alt-H2
-    ------
+    Combine with **asterisks and _underscores_**.
+
+    Strikethrough with two tildes. ~~Scratch this.~~
+
+Italics with *asterisks* or _underscores_.
+Bold, with double **asterisks** or double __underscores__.
+Combine with **asterisks and _underscores_**.
+Strikethrough with two tildes. ~~Scratch this.~~
