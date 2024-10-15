@@ -61,7 +61,7 @@ Strikethrough with two tildes. ~~Scratch this.~~
       1. Ordered sub-list
 4. And another item.
 
-   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown). \
    To have a line break without a paragraph, you will need to use two trailing spaces or a `space \`.  
    Note that this line is separate, but within the same paragraph.  
 
@@ -76,7 +76,7 @@ Strikethrough with two tildes. ~~Scratch this.~~
         [spaces]1. Ordered sub-list
         4. Another item.
   
-      [3spaces]You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+      [3spaces]You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown). \
       To have a line break without a paragraph, you will need to use two trailing spaces or a `space \`.[2spaces]
       Note that this line is separate, but within the same paragraph.[2spaces]
   
