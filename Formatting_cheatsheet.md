@@ -23,7 +23,7 @@ To put filenames or short lines of code into `code font` you add ticks around it
 
         To put `filenames` or short lines of code into `code font` you add ticks around it.
 
-### Headers
+## Headers
     # H1
     ## H2
     ### H3
@@ -52,7 +52,7 @@ Bold, with double **asterisks** or double __underscores__. \
 Combine with **asterisks and _underscores_**. \
 Strikethrough with two tildes. ~~Scratch this.~~
 
-### Lists
+## Lists and bullet points
 
 1. First list item
 2. Another item
@@ -70,10 +70,6 @@ Strikethrough with two tildes. ~~Scratch this.~~
    To have a line break without a paragraph, you will need to use two trailing spaces or a `space \`.  
    Note that this line is separate, but within the same paragraph.  
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-
         1. First ordered list item
         2. Another item
         [tab] * Unordered sub-list.
@@ -90,21 +86,19 @@ Strikethrough with two tildes. ~~Scratch this.~~
       To have a line break without a paragraph, you will need to use two trailing spaces or a `space \`.[2spaces]
       Note that this line is separate, but within the same paragraph.[2spaces]
   
-        * Unordered list can use asterisks
-        - Or minuses
-        + Or pluses
 ## Links
 
 There are two ways to create links.
 1. Hyperlinked text:
-[hyperlinked text to CCH2](https://www.cch2.org/portal/collections/search/index.php)
-
-[Reference to a repository](../path/to/repository)
-
-[You can use numbers for reference-style link definitions][1]
+    [hyperlinked text to CCH2](https://www.cch2.org/portal/collections/search/index.php)
+    [Reference to a repository](../path/to/repository)
+    [You can use numbers for reference-style link definitions][1]
 
 2. plain ol' URLs in angle brackets will automatically get turned into links. 
 https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
 
 [arbitrary case-insensitive reference text]: (https://www.cch2.org/portal/collections/search/index.php)
 [1]: (https://peerj.com/preprints/3159v2/)
+
+## Table of contents
+Similar to linking but within your doc. Basically 
