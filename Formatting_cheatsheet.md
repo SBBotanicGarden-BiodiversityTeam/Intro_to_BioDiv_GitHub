@@ -1,4 +1,5 @@
 # Some basic instruction for creating repository with an .md (markdown) file
+Once you are in the GitHub account, click on the BioDiv icon in the upper right and "Your repositories". A repository is basically a folder where we can keep files.
 
 Normal text can be written, well, normally with no hash (#)
 
