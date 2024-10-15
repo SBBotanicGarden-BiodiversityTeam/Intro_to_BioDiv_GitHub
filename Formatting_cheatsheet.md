@@ -23,7 +23,7 @@ To put filenames or short lines of code into `code font` you add ticks around it
 
         To put `filenames` or short lines of code into `code font` you add ticks around it.
 
-## Headers
+### Headers
     # H1
     ## H2
     ### H3
@@ -37,7 +37,7 @@ To put filenames or short lines of code into `code font` you add ticks around it
 ##### H5
 ###### H6
 
-# Emphasis
+### Emphasis
 
     Italics with *asterisks* or _underscores_.
 
@@ -52,7 +52,7 @@ Bold, with double **asterisks** or double __underscores__. \
 Combine with **asterisks and _underscores_**. \
 Strikethrough with two tildes. ~~Scratch this.~~
 
-# Lists
+### Lists
 
 1. First list item
 2. Another item
@@ -63,9 +63,8 @@ Strikethrough with two tildes. ~~Scratch this.~~
 
    You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+   To have a line break without a paragraph, you will need to use two trailing spaces or a `space \`.  
+   Note that this line is separate, but within the same paragraph.  
 
 * Unordered list can use asterisks
 - Or minuses
@@ -73,16 +72,15 @@ Strikethrough with two tildes. ~~Scratch this.~~
 
         1. First ordered list item
         2. Another item
-        [tab] * Unordered sub-list. 
+        [tab] * Unordered sub-list or. 
         1. Actual numbers don't matter, just that it's a number
-         [spaces]1. Ordered sub-list
-        4. And another item.
-        
-           You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-        
-             To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-                Note that this line is separate, but within the same paragraph.⋅⋅
-        ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+        [spaces]1. Ordered sub-list
+        4. Another item.
+  
+      [3spaces]You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+
+  To have a line break without a paragraph, you will need to use two trailing spaces or a `space \`.[2spaces]
+  Note that this line is separate, but within the same paragraph.[2spaces]
         
         * Unordered list can use asterisks
         - Or minuses
