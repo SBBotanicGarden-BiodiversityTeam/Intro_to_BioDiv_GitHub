@@ -12,9 +12,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 # Testing 123
-I hope this come out as an R marksown file!
+I hope this comes out as an R marksown file!
 
 ```{r}
 library(vcfR)
-SIFI.vcf <- read.vcfR("/Users/kristenlehman/Desktop/Projects/SIFI/ipyrad_data_processing/SIFI_123a/SIFI-less10kconreads_outfiles/SIFI-less10kconreads.vcf")
+SIFI.vcf <- read.vcfR("/path/to/.vcf")
 ```
