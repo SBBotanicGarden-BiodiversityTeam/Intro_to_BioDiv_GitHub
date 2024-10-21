@@ -27,7 +27,7 @@ A markdown file helps to keep track of your pipeline and parameters you used so 
 Before we get into formatting, the green Commit Changes button at the top right is key. Once you have written something in the window, click commit changes, and then if you wish add a note about what you did to the doc, and then click commit changes again. You will see the fruits of what you have written in html format and this also essentially functions as a `Save` button. If you close the window with out commiting changes, you will lose whatever you just did before the most recent "Commit Changes". If you want to edit again, click on the pen icon at the top right. 
 
 ## Formatting for a GitHub markdown file
-*For all formatting examples, if possible I will put what is typed into the codespace as well as what that looks like once we comit changes.*
+*For all formatting examples, if possible I will put what is typed into the codespace as well as what that looks like once we commit changes.*
 
 Normal text can be written, well, normally with no hash (#)
 
