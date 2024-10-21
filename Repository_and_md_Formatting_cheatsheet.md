@@ -40,7 +40,7 @@ To put filenames or short lines of code into `code font` you add ticks around it
         To put `filenames` or short lines of code into `code font` you add ticks around it.
 
 *tip: if its code you are putting in codespace, use just one tab. Later if you want to copy that code from the codespace window, you won't have to delete the extra tab at the begininning of each line.
-## Headers
+### Headers
     # H1
     ## H2
     ### H3
@@ -54,7 +54,7 @@ To put filenames or short lines of code into `code font` you add ticks around it
 ##### H5
 ###### H6
 
-## Emphasis
+### Emphasis
 
 Italics with *asterisks* or _underscores_. \
 Bold, with double **asterisks** or double __underscores__. \
@@ -69,7 +69,7 @@ Strikethrough with two tildes. ~~Scratch this.~~
 
     Strikethrough with two tildes. ~~Scratch this.~~
 
-## Lists and bullet points
+### Lists and bullet points
 
 1. First list item
 2. Another item
@@ -103,7 +103,7 @@ Strikethrough with two tildes. ~~Scratch this.~~
       To have a line break without a paragraph, you will need to use two trailing spaces or a `space \`.[2spaces]
       Note that this line is separate, but within the same paragraph.[2spaces]
   
-## Links
+### Links
 There are two ways to create links.
 1. Hyperlinked text:  
     [hyperlinked text to CCH2](https://www.cch2.org/portal/collections/search/index.php) \
@@ -115,7 +115,7 @@ https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
         2. plain ol' URLs in angle brackets will automatically get turned into links. \
         https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
    
-## Table of contents
+### Table of contents
 Similar to linking but within your doc. The format is:  
 `[whatever text you want in table](#exact-text-you-want-to-link-to-no-caps-no-symbols-dash-separated)`
 
