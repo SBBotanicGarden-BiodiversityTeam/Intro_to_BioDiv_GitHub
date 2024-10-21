@@ -1,12 +1,17 @@
-# What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
+# Intro to git, GitHub, for SBBG genetics team purposes
+[What is git, GitHub, GitDesktop/CLI](#what-is-git-github-gitdesktop-or-other-version-control-system-vcs-gui)
+[Basic instruction for creating repository with an .md (markdown) file](#basic-instruction-for-creating-repository-with-an-md-markdown-file)
+[Formatting for a GitHub markdown file](#Formatting-for-a-github-markdown-file)
+
+## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
 
 **git** is an open source version control system (already on your Mac computers - needs to be installed on others). A version controls system basically has a way to keep track of the changes made to files and to beable to go back to that if needed. Used heavily by software developers but also helpful for us in bioinformatics where we are regularly updating and sharing code. 
 
 **GitHub** You can think of it as the online *hub* or mother ship of where our groups code and set of instructions will live. You can `git clone` template repositories (GitHubs term for folder/directory) of code for projects to your local computer, edit them (say, changes needed for a new version of some program), then "push" the changes up to the mothership version where others on the team can approve changes and have them "merged" to mothership template.
 
-**GitDesktop**
+**GitDesktop vs CLI**
 
-# Basic instruction for creating repository with an .md (markdown) file
+## Basic instruction for creating repository with an .md (markdown) file
 Once you are in the GitHub account, click on the icon in the upper right and then "Your repositories". To create a new repository in Github (as opposed to local machine), click on the upper right green icon which will then prompt you to name your new repository. This repository is named "Intro_to_BioDiv_Github" for example.
 
 Within a repository, we make, store, edit, all sorts of things - markdown files (help us keep track of our pipeline), code, results, other documents, other folders of documents. Here we focus on the markdown file. 
@@ -18,7 +23,7 @@ A markdown file helps to keep track of your pipeline and parameters you used so 
 # Editing an .md file and "commiting changes"
 Before we get into formatting, the green Commit Changes button at the top right is key. Once you have written something in the window, click commit changes, and then if you wish add a note about what you did to the doc, and then click commit changes again. You will see the fruits of what you have written in html format and this also essentially functions as a `Save` button. If you close the window with out commiting changes, you will lose whatever you just did before the most recent "Commit Changes". If you want to edit again, click on the pen icon at the top right. 
 
-# Formatting a Github .md file
+# Formatting for a GitHub markdown file
 *For all formatting examples, if possible I will put what is typed into the codespace as well as what that looks like once we comit changes.*
 
 Normal text can be written, well, normally with no hash (#)
