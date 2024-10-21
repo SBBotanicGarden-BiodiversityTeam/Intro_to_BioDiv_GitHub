@@ -1,6 +1,6 @@
 # Intro to git, GitHub, for SBBG genetics team purposes
-[What is git, GitHub, GitDesktop/CLI](#what-is-git-github-gitdesktop-or-other-version-control-system-vcs-gui)
-[Basic instruction for creating repository with an .md (markdown) file](#basic-instruction-for-creating-repository-with-an-md-markdown-file)
+[What is git, GitHub, GitDesktop/CLI](#what-is-git-github-gitdesktop-or-other-version-control-system-vcs-gui)  
+[Basic instruction for creating repository with an .md (markdown) file](#basic-instruction-for-creating-repository-with-an-md-markdown-file)  
 [Formatting for a GitHub markdown file](#Formatting-for-a-github-markdown-file)
 
 ## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
