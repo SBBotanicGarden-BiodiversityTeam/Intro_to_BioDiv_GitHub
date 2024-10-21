@@ -1,6 +1,8 @@
 # Intro to git, GitHub, for SBBG genetics team purposes
 [What is git, GitHub, GitDesktop/CLI](#what-is-git-github-gitdesktop-or-other-version-control-system-vcs-gui)  
 [Basic instruction for creating repository with an .md (markdown) file](#basic-instruction-for-creating-repository-with-an-md-markdown-file)  
+    1.) (On GitHub)[#on-github]
+    2.) (On CLI - *in the works*)[#on-cli-command-line-interface-aka-terminal) 
 [Formatting for a GitHub markdown file](#Formatting-for-a-github-markdown-file)
 
 ## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
@@ -12,6 +14,7 @@
 **GitDesktop vs CLI**
 
 ## Basic instruction for creating repository with an .md (markdown) file
+## On GitHub
 Once you are in the GitHub account, click on the icon in the upper right and then "Your repositories". To create a new repository in Github (as opposed to local machine), click on the upper right green icon which will then prompt you to name your new repository. This repository is named "Intro_to_BioDiv_Github" for example.
 
 Within a repository, we make, store, edit, all sorts of things - markdown files (help us keep track of our pipeline), code, results, other documents, other folders of documents. Here we focus on the markdown file. 
