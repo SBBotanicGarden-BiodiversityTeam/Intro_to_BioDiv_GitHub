@@ -20,10 +20,10 @@ To make a markdown file, click on the "Add file" at the top right of the inner w
 
 A markdown file helps to keep track of your pipeline and parameters you used so that it is reproducible. **It is only as good as the extent to which you document it.** To make a markdown file, name your file something descriptive with a `.md` end in the space at the top right.
 
-# Editing an .md file and "commiting changes"
+## Editing an .md file and "commiting changes"
 Before we get into formatting, the green Commit Changes button at the top right is key. Once you have written something in the window, click commit changes, and then if you wish add a note about what you did to the doc, and then click commit changes again. You will see the fruits of what you have written in html format and this also essentially functions as a `Save` button. If you close the window with out commiting changes, you will lose whatever you just did before the most recent "Commit Changes". If you want to edit again, click on the pen icon at the top right. 
 
-# Formatting for a GitHub markdown file
+## Formatting for a GitHub markdown file
 *For all formatting examples, if possible I will put what is typed into the codespace as well as what that looks like once we comit changes.*
 
 Normal text can be written, well, normally with no hash (#)
@@ -54,7 +54,7 @@ To put filenames or short lines of code into `code font` you add ticks around it
 ##### H5
 ###### H6
 
-### Emphasis
+## Emphasis
 
 Italics with *asterisks* or _underscores_. \
 Bold, with double **asterisks** or double __underscores__. \
@@ -104,7 +104,6 @@ Strikethrough with two tildes. ~~Scratch this.~~
       Note that this line is separate, but within the same paragraph.[2spaces]
   
 ## Links
-
 There are two ways to create links.
 1. Hyperlinked text:  
     [hyperlinked text to CCH2](https://www.cch2.org/portal/collections/search/index.php) \
@@ -115,6 +114,7 @@ https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
             [hyperlinked text to CCH2](https://www.cch2.org/portal/collections/search/index.php) \
         2. plain ol' URLs in angle brackets will automatically get turned into links. \
         https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
+   
 ## Table of contents
 Similar to linking but within your doc. The format is:  
 `[whatever text you want in table](#exact-text-you-want-to-link-to-no-caps-no-symbols-dash-separated)`
