@@ -1,5 +1,6 @@
 # Intro to git, GitHub, and best practices for SBBG genetics team purposes
 [What is git, GitHub, GitDesktop/CLI](#what-is-git-github-gitdesktop-or-other-version-control-system-vcs-gui)  
+[Best Practices for SBBG Biodiv](#Best-Practices-for-SBBG-Biodiv)
 
 ## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
 
@@ -12,3 +13,10 @@
 *GitDesktop* is one GUI interface among several, (similar to Rstudio for R) that might be nice to use. I believe it at least has a command line window plus many of the capabilities needed to `push` and `pull` versions between local/main/master/your_laptop and remote/GitHub/mothership (that's as much as I know about it :bowtie: )  
 
 *CLI* - Command line interface uses command on terminal to interface git and github. 
+
+# Best Practices
+## Purpose of using git/GitHub
+
+## code writing conventions
+
+## README.md s 
