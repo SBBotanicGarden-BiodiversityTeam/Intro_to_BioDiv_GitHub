@@ -13,13 +13,12 @@
 
 **GitDesktop vs CLI**
 
-GitDesktop is a GUI interface among several (similar to Rstudio for R) that might be nice to use. I believe it at least has a command line window plus many of the capabilities needed to `push` and `pull` versions between local/main/master/your_laptop and remote/GitHub/mothership (that's as much as I know about it :bowtie: )  
+*GitDesktop* is one GUI interface among several, (similar to Rstudio for R) that might be nice to use. I believe it at least has a command line window plus many of the capabilities needed to `push` and `pull` versions between local/main/master/your_laptop and remote/GitHub/mothership (that's as much as I know about it :bowtie: )  
 
-CLI - Command line interface aka terminal  
+*CLI* - Command line interface uses command on terminal to interface git and github. 
 
 
-## Basic instruction for creating repository with an .md (markdown) file
-## On GitHub
+## Basic instruction for creating repository with an .md (markdown) file on GitHub
 Once you are in the GitHub account, click on the icon in the upper right and then "Your repositories". To create a new repository in Github (as opposed to local machine), click on the upper right green icon which will then prompt you to name your new repository. This repository is named "Intro_to_BioDiv_Github" for example.
 
 Within a repository, we make, store, edit, all sorts of things - markdown files (help us keep track of our pipeline), code, results, other documents, other folders of documents. Here we focus on the markdown file. 
