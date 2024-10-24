@@ -17,6 +17,6 @@
 # Best Practices
 ## Purpose of using git/GitHub
 
-## code writing conventions
+## Code writing conventions
 
-## README.md s 
+## What info to include in a repo README.md
