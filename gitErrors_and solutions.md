@@ -41,7 +41,9 @@ Since I triend all sorts of things before this solution I had more commit to go 
 `git reset` followed by the commit ID will reset the commits you've made to that point. This will not revert your actual repo/folder to that time, just your gits memory if that makes sense.
 
     mayroberts@Mays-Mac-Book_Pro VMMV % git reset f284b99c93addae725ddcd4ca31d3e5382e7ba90
-    
+
+Now we update the .gitignore file and commit and push that before trying to push the rest of the files. (or if the large file is unnecessary maybe just get rid of it)
+
     vim .gitignore
     git add .gitignore
     git commit -m "update .gitignore to include large infile"
