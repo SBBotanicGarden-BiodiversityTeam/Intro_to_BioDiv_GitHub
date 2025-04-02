@@ -1,9 +1,12 @@
-# Intro to git, GitHub, and best practices for SBBG genetics team purposes
+# Intro to GitHub and best practices for SBBG genetics team purposes
 [What is git, GitHub, GitDesktop/CLI](#what-is-git-github-gitdesktop-or-other-version-control-system-vcs-gui)  
 [BioDiv-git account and purpose](#biodiv-git-account-and-purpose)  
 [GitHub Setup](#github-set-up)  
 [Connect accounts, set collaborators](#connect-to-this-biodiv-git-account)  
 [Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git-or-vice-versa)
+[How to make a new repo]
+[How to make a markdown file]
+
 
 ## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
 
@@ -46,11 +49,18 @@ If I want to make sure my code for a project is accessible on BioDiv-git:
 This is if you want to collaborate on code for a project with someone so that they can add to, or edit the code in your personal repo. You will have the opportunity to accept changes before their edits are incorporated into your repo.  
 1) Navigate to the repository's settings  
 2) Click "Collaborators & teams" and then "Add people" to invite them, granting them access to the repository.  
-3) They will get an email with the collaboration invite which they will have to accept.  
+3) They will get an email with the collaboration invite which they will have to accept.
+
+## How to make a new repo
+
+## How to make a markdown file
+
+### Cheat sheet for .md file
+
+link
+
+##
 
 # Best Practices
-## Purpose of using git/GitHub
-
 ## Code writing conventions
-
 ## What info to include in a repo README.md
