@@ -34,18 +34,20 @@ From your personal account, go to the top right icon, click and choose "add acco
 Enter the log in info May gives you for the BioDiv-git account.  
 After this is done, you should be able to click the icon at anypoint and toggle between the two accounts.
 
-### Set collaborators:
-To share a GitHub repository with someone, navigate to the repository's settings, click "Collaborators & teams," and then "Add people" to invite them, granting them access to the repository. They will get an email with the collaboration invite which they will have to accept. 
-
-
-### Forking to display personal repo in BioDiv-git (or vice versa)
+## Forking to display personal repo in BioDiv-git (or vice versa)
 Forking essentially creates a clone of a repository from another account in your own repository for easy access.  
 If I want to make sure my code for a project is accessible on BioDiv-git:  
 1) From BioDiv-git account, navigate to the repo you want to fork from you personal account  
 2) Click "Fork" to the upper right  
 3) Give it a name: *Maybe we can set a convention for naming here*  
 4) If it is a repo that is still being worked, click on the "Sync Fork" button at the top right to make sure you are up to date. If it is, it should have a note - something like "This branch is up to date with mayroberts/VMMV:main."
-   
+
+## Set collaborators:
+This is if you want to collaborate on code for a project with someone so that they can add to, or edit the code in your personal repo. You will have the opportunity to accept changes before their edits are incorporated into your repo. 
+
+navigate to the repository's settings, click "Collaborators & teams," and then "Add people" to invite them, granting them access to the repository. They will get an email with the collaboration invite which they will have to accept. 
+
+
 option 1: fork a copy to your profile  
 But what you can do is fork it. It essentially clones the repo into your account, with all the commits. Since contributor info is based on the commits, it will show the same contributor information.
 
