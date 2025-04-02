@@ -36,9 +36,9 @@ This is where you can edit code and markdown files for your projects which you w
 During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.  
 
 ## Connect to this BioDiv-git account  
-From your personal account, go to the top right icon, click and choose "add account".  
-Enter the log in info May gives you for the BioDiv-git account.  
-After this is done, you should be able to click the icon at anypoint and toggle between the two accounts.
+1) From your personal account, go to the top right icon, click and choose "add account".  
+2) Enter the log in info May gives you for the BioDiv-git account.  
+3) After this is done, you should be able to click the icon at anypoint and toggle between the two accounts.
 
 # Using GitHub  
 ## Forking to display personal repo in BioDiv-git (or vice versa)
