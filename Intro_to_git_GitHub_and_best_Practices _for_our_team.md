@@ -2,7 +2,9 @@
 [What is git, GitHub, GitDesktop/CLI](#what-is-git-github-gitdesktop-or-other-version-control-system-vcs-gui)  
 [BioDiv-git account and purpose](#biodiv-git-account-and-purpose)  
 [GitHub Setup](#github-set-up)  
-[Connect accounts, set collaborators](#connect-to-this-biodiv-git-account)  
+[Make a personal account](#Make-a-personal-account)  
+[Connect-to-group-account](Connect-to-this-BioDiv-git-account)
+[Using GitHub](#using-github)
 [Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git-or-vice-versa)  
 [How to make a new repo]  
 [How to make a markdown file]  
@@ -32,11 +34,12 @@ This is where you can edit code and markdown files for your projects which you w
 3) Follow the prompts to create your personal account.  
 During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.  
 
-## Connect to this BioDiv-git account. 
+## Connect to this BioDiv-git account  
 From your personal account, go to the top right icon, click and choose "add account".  
 Enter the log in info May gives you for the BioDiv-git account.  
 After this is done, you should be able to click the icon at anypoint and toggle between the two accounts.
 
+# Using GitHub  
 ## Forking to display personal repo in BioDiv-git (or vice versa)
 Forking essentially creates a clone of a repository from another account in your own repository for easy access.  
 If I want to make sure my code for a project is accessible on BioDiv-git:  
