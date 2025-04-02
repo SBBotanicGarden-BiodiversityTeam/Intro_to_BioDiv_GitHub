@@ -26,7 +26,19 @@ This is where you can edit code and markdown files for your projects which you w
 3) Follow the prompts to create your personal account.  
 During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.  
 
-## connect to this BioDiv-git account. 
+## Connect to this BioDiv-git account. 
+There are actually a couple ways to do this:  
+
+To share a GitHub repository with someone, navigate to the repository's settings, click "Collaborators & teams," and then "Add people" to invite them, granting them access to the repository. 
+Here's a more detailed breakdown:
+Navigate to the repository settings: Go to the main page of the repository on GitHub and click "Settings" under the repository name. 
+Access Collaborators & teams: In the "Access" section of the sidebar, click "Collaborators & teams". 
+Add people: Click "Add people" to invite a collaborator. 
+Find the user: In the search field, type the name of the person you want to invite. 
+Choose a role (optional): Select the repository role to grant to the team or person (e.g., read, write, admin). 
+Add to the repository: Click "Add NAME to REPOSITORY". 
+The user will receive an email: The user will receive an email inviting them to the repository. Once they accept the invitation, they will have collaborator access. 
+
 
 
 # Best Practices
