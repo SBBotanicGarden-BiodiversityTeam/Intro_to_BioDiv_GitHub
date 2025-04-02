@@ -30,8 +30,8 @@ During sign up, you'll be asked to verify your email address. Without a verified
 
 ## Connect to this BioDiv-git account. 
 From your personal account, go tot the top right icon, click and choose "add account".  
-Enter the log in info May gives you for the BioDiv-git account
-
+Enter the log in info May gives you for the BioDiv-git account.
+After this si done, you should be able to click the icon at anypoint and toggle between the two accounts
 ### Set collaborators:
 To share a GitHub repository with someone, navigate to the repository's settings, click "Collaborators & teams," and then "Add people" to invite them, granting them access to the repository. 
 Here's a more detailed breakdown:
