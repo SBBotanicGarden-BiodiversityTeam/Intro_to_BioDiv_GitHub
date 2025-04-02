@@ -40,6 +40,23 @@ Add to the repository: Click "Add NAME to REPOSITORY".
 The user will receive an email: The user will receive an email inviting them to the repository. Once they accept the invitation, they will have collaborator access. 
 
 
+option 1: fork a copy to your profile  
+But what you can do is fork it. It essentially clones the repo into your account, with all the commits. Since contributor info is based on the commits, it will show the same contributor information.
+
+Since you were added as a collaborator, you have direct access to the original repo and can push commits to it directly. You can keep your clone in sync with the original with the recently aded fetch upstream button:
+
+enter image description here
+
+This means you do not need to do steps 2-5 of Henrique's answer. Not unless you prefer pushing your changes to your fork first, and then doing pull requests from it to your friend's.
+
+option 2: pin the repo owned by your collaborator to your profile  
+Another thing you can do is to pin a repo so that it appears on the top of your profile.  
+You can pin either the original or your fork:
+
+enter image description here
+
+option 3: create an org to reflect shared ownership  
+If the repo shouldn't belong to one person, create an org and move the repo to the org, and make both of you admins of the org.
 
 # Best Practices
 ## Purpose of using git/GitHub
