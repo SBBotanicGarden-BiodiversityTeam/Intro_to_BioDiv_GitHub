@@ -3,7 +3,7 @@
 [BioDiv-git account and purpose](#biodiv-git-account-and-purpose)  
 [GitHub Setup](#github-set-up)  
 [Connect accounts, set collaborators](#connect-to-this-biodiv-git-account)  
-[Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git)
+[Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git-or-vice-versa)
 
 ## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
 
@@ -38,7 +38,7 @@ After this is done, you should be able to click the icon at anypoint and toggle 
 To share a GitHub repository with someone, navigate to the repository's settings, click "Collaborators & teams," and then "Add people" to invite them, granting them access to the repository. They will get an email with the collaboration invite which they will have to accept. 
 
 
-### Forking to display personal repo in BioDiv-git
+### Forking to display personal repo in BioDiv-git (or vice versa)
 Forking essentially creates a clone of a repository from another account in your own repository for easy access.  
 If I want to make sure my code for a project is accessible on BioDiv-git:  
 1) From BioDiv-git account, navigate to the repo you want to fork from you personal account  
