@@ -1,8 +1,8 @@
 # Intro to git, GitHub, and best practices for SBBG genetics team purposes
 [What is git, GitHub, GitDesktop/CLI](#what-is-git-github-gitdesktop-or-other-version-control-system-vcs-gui)  
-[BioDiv-git account and purpose](#biodiv-git-account-and-purpose)
-[GitHub Setup](#github-setup)
-[Connect accounts, set collaborators](#connect-to-this-biodiv-git-account)
+[BioDiv-git account and purpose](#biodiv-git-account-and-purpose)  
+[GitHub Setup](#github-setup)  
+[Connect accounts, set collaborators](#connect-to-this-biodiv-git-account)  
 
 ## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
 
