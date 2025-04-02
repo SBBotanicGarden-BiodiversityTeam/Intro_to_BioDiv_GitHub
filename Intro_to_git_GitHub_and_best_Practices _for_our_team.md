@@ -42,7 +42,7 @@ Forking essentially creates a clone of a repository from another account in your
 If I want to make sure my code for a project is accessible on BioDiv-git:  
 1) From BioDiv-git account, navigate to the repo you want to fork from you personal account  
 2) Click "Fork" to the upper right  
-3) Give it a name: *Maybe we can set a convention for naming here*  
+3) Give it a name: *Lets set a convention for naming here*  
 4) If it is a repo that is still being worked, click on the "Sync Fork" button at the top right to make sure you are up to date. If it is, it should have a note - something like "This branch is up to date with mayroberts/VMMV:main."
 
 ## Set collaborators:
