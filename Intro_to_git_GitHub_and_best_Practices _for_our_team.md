@@ -16,7 +16,7 @@
 
 *CLI* - Command line interface uses command on terminal to interface git and github. 
 
-# SBBotanicGarden-BiodiversityTeam account and purpose
+# BioDiv-git account and purpose
 We will use the 
 
 # GitHub Set Up 
