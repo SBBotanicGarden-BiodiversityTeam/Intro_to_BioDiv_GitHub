@@ -17,7 +17,16 @@
 # SBBotanicGarden-BiodiversityTeam account and purpose
 We will use the 
 
-# Make your own account and get connected to the SBBotanicGarden-BiodiversityTeam account. 
+# GitHub Set Up 
+## Make a personal account 
+This is where you can edit code and markdown files for your projects which you will share access with BioDiv-git.   
+**Signing up for a new personal account**   
+1) Navigate to https://github.com/.  
+2) Click Sign up.  
+3) Follow the prompts to create your personal account.  
+During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.  
+
+## connect to this BioDiv-git account. 
 
 
 # Best Practices
