@@ -44,9 +44,9 @@ If I want to make sure my code for a project is accessible on BioDiv-git:
 
 ## Set collaborators:
 This is if you want to collaborate on code for a project with someone so that they can add to, or edit the code in your personal repo. You will have the opportunity to accept changes before their edits are incorporated into your repo.  
-- Navigate to the repository's settings  
-- Click "Collaborators & teams" and then "Add people" to invite them, granting them access to the repository.  
-- They will get an email with the collaboration invite which they will have to accept.  
+1) Navigate to the repository's settings  
+2) Click "Collaborators & teams" and then "Add people" to invite them, granting them access to the repository.  
+3) They will get an email with the collaboration invite which they will have to accept.  
 
 # Best Practices
 ## Purpose of using git/GitHub
