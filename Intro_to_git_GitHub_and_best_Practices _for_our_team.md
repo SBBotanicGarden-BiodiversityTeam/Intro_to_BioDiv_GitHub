@@ -3,9 +3,9 @@
 [BioDiv-git account and purpose](#biodiv-git-account-and-purpose)  
 [GitHub Setup](#github-set-up)  
 [Connect accounts, set collaborators](#connect-to-this-biodiv-git-account)  
-[Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git-or-vice-versa)
-[How to make a new repo]
-[How to make a markdown file]
+[Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git-or-vice-versa)  
+[How to make a new repo]  
+[How to make a markdown file]  
 
 
 ## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
