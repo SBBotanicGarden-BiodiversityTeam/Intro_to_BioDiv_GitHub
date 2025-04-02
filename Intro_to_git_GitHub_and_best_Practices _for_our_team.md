@@ -32,16 +32,11 @@ During sign up, you'll be asked to verify your email address. Without a verified
 From your personal account, go tot the top right icon, click and choose "add account".  
 Enter the log in info May gives you for the BioDiv-git account.
 After this si done, you should be able to click the icon at anypoint and toggle between the two accounts
+
 ### Set collaborators:
-To share a GitHub repository with someone, navigate to the repository's settings, click "Collaborators & teams," and then "Add people" to invite them, granting them access to the repository. 
-Here's a more detailed breakdown:
-Navigate to the repository settings: Go to the main page of the repository on GitHub and click "Settings" under the repository name. 
-Access Collaborators & teams: In the "Access" section of the sidebar, click "Collaborators & teams". 
-Add people: Click "Add people" to invite a collaborator. 
-Find the user: In the search field, type the name of the person you want to invite. 
-Choose a role (optional): Select the repository role to grant to the team or person (e.g., read, write, admin). 
-Add to the repository: Click "Add NAME to REPOSITORY". 
-The user will receive an email: The user will receive an email inviting them to the repository. Once they accept the invitation, they will have collaborator access. 
+To share a GitHub repository with someone, navigate to the repository's settings, click "Collaborators & teams," and then "Add people" to invite them, granting them access to the repository. They will get an email with the collaboration invite which wthey will have to accept. 
+
+
 
 
 option 1: fork a copy to your profile  
