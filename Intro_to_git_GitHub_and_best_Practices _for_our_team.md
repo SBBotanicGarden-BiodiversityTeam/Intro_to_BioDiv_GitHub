@@ -3,7 +3,8 @@
 [BioDiv-git account and purpose](#biodiv-git-account-and-purpose)  
 [GitHub Setup](#github-set-up)  
 - [Make a personal account](#Make-a-personal-account)  
-- [Connect-to-group-account](Connect-to-this-BioDiv-git-account)  
+- [Connect-to-group-account](Connect-to-this-BioDiv-git-account)
+  
 [Using GitHub](#using-github)  
 - [Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git-or-vice-versa)  
 - [How to make a new repo]  
