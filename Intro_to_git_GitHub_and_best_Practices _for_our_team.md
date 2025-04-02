@@ -2,12 +2,12 @@
 [What is git, GitHub, GitDesktop/CLI](#what-is-git-github-gitdesktop-or-other-version-control-system-vcs-gui)  
 [BioDiv-git account and purpose](#biodiv-git-account-and-purpose)  
 [GitHub Setup](#github-set-up)  
-[Make a personal account](#Make-a-personal-account)  
-[Connect-to-group-account](Connect-to-this-BioDiv-git-account)  
+- [Make a personal account](#Make-a-personal-account)  
+- [Connect-to-group-account](Connect-to-this-BioDiv-git-account)  
 [Using GitHub](#using-github)  
-[Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git-or-vice-versa)  
-[How to make a new repo]  
-[How to make a markdown file]  
+- [Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git-or-vice-versa)  
+- [How to make a new repo]  
+- [How to make a markdown file]  
 
 
 ## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
