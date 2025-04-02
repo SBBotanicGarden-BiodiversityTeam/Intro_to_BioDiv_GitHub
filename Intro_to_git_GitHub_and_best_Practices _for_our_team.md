@@ -27,7 +27,7 @@ This is where you can edit code and markdown files for your projects which you w
 During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.  
 
 ## Connect to this BioDiv-git account. 
-From your personal account, go tot the top right icon, click and choose "add account" 
+From your personal account, go tot the top right icon, click and choose "add account"   
 Enter the log in info May gives you for the BioDiv-git account
 
 ### Set collaborators:
