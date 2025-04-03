@@ -17,9 +17,9 @@ Before we get into formatting, the green Commit Changes button at the top right 
 ## Formatting for a GitHub markdown file
 *For all formatting examples, if possible I will put what is typed into the codespace as well as what that looks like once we commit changes.*
 
-Normal text can be written, well, normally with no hash (#)
+Normal text can be written, well, normally
 
-    Normal text can be written, well, normally with no hash (#)
+    Normal text can be written, well, normally
 
 To put anything in codespace window, you just indent those lines one or more tabs:
 
