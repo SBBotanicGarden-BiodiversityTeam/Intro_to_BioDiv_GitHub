@@ -1,11 +1,11 @@
 # Basic markdown (.md) file formatting
 [Basic instruction for creating repository with an .md (markdown) file](#basic-instruction-for-creating-repository-with-an-md-markdown-file)  
-[Formatting for a GitHub markdown file](#Formatting-for-a-github-markdown-file)
--[Text](#text)
--[Headers](#headers)
--[Emphasis- bold, italics](#emphasis)
--[Lists and bullet points](lists-and-bullet-points)
--[Table of contents](#table-of-contents)
+[Formatting for a GitHub markdown file](#Formatting-for-a-github-markdown-file)  
+-[Text](#text)  
+-[Headers](#headers)  
+-[Emphasis- bold, italics](#emphasis)  
+-[Lists and bullet points](lists-and-bullet-points)  
+-[Table of contents](#table-of-contents)  
 
 ## Basic instruction for creating an .md (markdown) file on GitHub
 Within a repository, we make, store, edit, all sorts of things - markdown files (help us keep track of our pipeline), code, results, other documents, other folders of documents. Here we focus on the markdown file. 
