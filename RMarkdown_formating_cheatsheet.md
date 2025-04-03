@@ -1,7 +1,8 @@
 [Rmarkdown file](#rmarkdown-file)  
 [Formatting](#formatting)  
 - [Table of contents](#table-of-contents)  
-- [R script](#r-script)  
+- [R script](#r-script)
+  
 [Running your R script](#running-your-r-script)  
 [Saving to html - "knit"](#Knit)
 
