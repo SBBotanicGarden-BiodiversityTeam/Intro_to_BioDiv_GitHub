@@ -1,4 +1,4 @@
-[VMMV_pycno_k10_ordered.pdf](https://github.com/user-attachments/files/19579846/VMMV_pycno_k10_ordered.pdf)# Basic markdown (.md) file formatting
+# Basic markdown (.md) file formatting
 [Basic instruction for creating repository with an .md (markdown) file](#basic-instruction-for-creating-repository-with-an-md-markdown-file)  
     - [On GitHub](#on-github)  
     - [On CLI - *in the works*](#on-cli-command-line-interface-aka-terminal)  
@@ -128,6 +128,7 @@ Reference-style:
 
 
 ![image](https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/images/VMMV_pycno_k9_ordered_copy.png "VMMV k=9")
+
 ![alt text][vmmv_k9]
 
 [vmmv k9]: https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/images/VMMV_pycno_k9_ordered_copy.png k9
