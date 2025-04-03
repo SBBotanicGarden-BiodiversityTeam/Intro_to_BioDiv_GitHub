@@ -153,4 +153,4 @@ Here is a .jpg:
 https://gist.github.com/rxaviers/7360908
 
 
-There is a lot more: You can check out
+There is a lot more: check out https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet where a lot of this came from.
