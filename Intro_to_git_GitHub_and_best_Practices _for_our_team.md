@@ -8,7 +8,7 @@
 [Using GitHub](#using-github)  
 - [Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git-or-vice-versa)  
 - [How to make a new repo](#how-to-make-a-new-repo)  
-- [How to make a markdown file]  
+- [How to make a markdown file](#how-to-make-a-markdown-file)
 
 
 ## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
@@ -70,7 +70,8 @@ A README.md typically explains what the project is about. If we are using GitHub
 4) Is there a markdown file with analysis steps already taken - if so, where.  
 
 ## How to make a markdown file
-1) to make a new.md file or upload a .md (or any file) click on "add file" upper right  
+1) Go to into the repository that you want the new file in  
+2) To make a new.md file or upload a .md (or any file) click on "add file" upper right  
 ### Cheat sheet for .md file
 
 link
