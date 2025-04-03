@@ -140,27 +140,15 @@ Similar to linking but within your doc. The format is:
 [Top of page to Basic instruction](#basic-instruction-for-creating-repository-with-an-md-markdown-file)
 
 ### Images
-`![alt text](http://url/to/img.png)`  
+`![alt text](direct/path/to/img.png)`  
 
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](/images/icon48.png "Logo Title Text 1")  
-
-Blah
+    Here is a .jpg:
+    ![alt text](images/coast.jpg "please work")
+    
+Here is a .jpg:
 ![alt text](images/coast.jpg "please work")  
 
-Reference-style: 
-![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-
-![image](images/VMMV_pycno_k9_ordered.pdf "VMMV k=9")
-
-![alt text][vmmv_k9]
-
-[vmmv k9]: https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/images/VMMV_pycno_k9_ordered_copy.png k9
 
 ### Emojis
 
