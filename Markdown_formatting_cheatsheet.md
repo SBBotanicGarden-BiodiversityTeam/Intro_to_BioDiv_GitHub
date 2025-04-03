@@ -114,7 +114,7 @@ Similar to linking but within your doc. The format is:
 
 ### Images
 `![alt text](http://url/to/img.png)`
-![alt text](http://url/to/img.png)
+![alt text](images/VMMV_pycno_k9_ordered.pdf)
 
 
 ### Emojis
