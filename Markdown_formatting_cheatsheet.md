@@ -146,7 +146,7 @@ Similar to linking but within your doc. The format is:
     "results of Evano method plot:"  
     ![alt text](images/test.jpg "deltaK plot for VMMV")
     
-"results of Evano method plot:"
+"results of Evano method plot:"  
 ![deltaK](images/test.jpg "deltaK plot for VMMV")  
 
 ### Links to resources
