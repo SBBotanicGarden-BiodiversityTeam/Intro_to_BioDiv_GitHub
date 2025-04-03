@@ -110,7 +110,7 @@ https://sbbotanicgarden.org/ or <https://sbbotanicgarden.org/>
 Similar to linking but within your doc. The format is:  
 `[whatever text you want in table](#exact-text-you-want-to-link-to-no-caps-no-symbols-dash-separated)`
 
-[1. Top of page to Basic instruction](#Basic-instruction-for-creating-repository-with-an-md-markdown-file)
+[Top of page to Basic instruction](#basic-instruction-for-creating-repository-with-an-md-markdown-file)
 
 ### Images
 `![alt text](http://url/to/img.png)`  
