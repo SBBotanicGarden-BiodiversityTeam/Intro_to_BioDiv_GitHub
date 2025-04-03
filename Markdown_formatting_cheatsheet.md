@@ -143,13 +143,14 @@ Similar to linking but within your doc. The format is:
 `![alt text](direct/path/to/img.png)`  
 
     Here is a .jpg:
-    ![alt text](images/coast.jpg "please work")
+    ![alt text](images/coast.jpg "San Mateo coast")
     
 Here is a .jpg:
-![alt text](images/coast.jpg "please work")  
-
-
+![alt text](images/coast.jpg "San Mateo coast")  
 
 ### Emojis
 
 https://gist.github.com/rxaviers/7360908
+
+
+There is a lot more: You can check out
