@@ -26,7 +26,10 @@
 *CLI* - Command line interface uses command on terminal to interface git and github. 
 
 # BioDiv-git account and purpose
-We will use the 
+At a minimum, this will hopefully be   
+1) a living resource for up-to-date instructions and code for bioinfomatic software and analyses  
+2) a place where the team can have access to how different projects have been/are being analyzed
+3) Any others? 
 
 # GitHub Set Up 
 ## Make a personal account 
