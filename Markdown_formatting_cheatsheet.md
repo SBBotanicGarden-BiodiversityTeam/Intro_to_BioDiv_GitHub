@@ -148,7 +148,7 @@ Inline-style:
 ![alt text](/images/icon48.png "Logo Title Text 1")  
 
 Blah
-![alt text](/images/VMMVk10.png "please work")  
+![alt text](/images/IMG_9611.jpg "please work")  
 
 Reference-style: 
 ![alt text][logo]
