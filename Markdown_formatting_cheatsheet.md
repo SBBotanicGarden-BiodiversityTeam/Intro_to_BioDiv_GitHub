@@ -26,7 +26,7 @@ To put anything in codespace window, you just indent those lines one or more tab
         To put anything in codespace window, you just indent those lines one or more tabs:
 If you have many lines of code you want in codespace, highlight the whole block and hit `tab` or `command ]` to indent/put it in code space it all at once.
 
-To put filenames or short lines of code into `code font` you add ticks around it. This has to be the tick marks found on the same key as the tilda `~`. 
+To put `filenames` or short lines of code into `code font` you add ticks around it. This has to be the tick marks found on the same key as the tilda `~`. 
 
         To put `filenames` or short lines of code into `code font` you add ticks around it.
 
