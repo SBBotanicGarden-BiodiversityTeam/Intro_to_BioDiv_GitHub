@@ -113,7 +113,7 @@ Similar to linking but within your doc. The format is:
 [1. Top of page to Basic instruction](#basic-instruction-for-creating-repository-with-an-md-markdown-file)
 
 ### Images
-`![alt text](http://url/to/img.png)`
+`![alt text](http://url/to/img.png)`  
 ![alt text]([images/VMMV_pycno_k9_ordered.pdf](https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/tree/7f928d33a721386e0f8d2def08b59c6b147a4ac6/images))
 
 
