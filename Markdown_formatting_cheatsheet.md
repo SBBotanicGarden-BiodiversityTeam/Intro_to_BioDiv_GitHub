@@ -4,10 +4,10 @@
 -[Text](#text)  \
 -[Headers](#headers)  \
 -[Emphasis- bold, italics](#emphasis)  \
--[Lists and bullet points](lists-and-bullet-points)  \
+-[Lists and bullet points](#lists-and-bullet-points)  \
 -[Table of contents](#table-of-contents)  \
 -[Images](#images)  
--[Links for resources](#emojis)
+-[Links to resources](#links-to-resources)
 
 ## Basic instruction for creating an .md (markdown) file on GitHub
 Within a repository, we make, store, edit markdown files which help us keep track of our pipeline, code, results, other documents, other folders of documents. 
@@ -149,9 +149,8 @@ Similar to linking but within your doc. The format is:
 Here is a .jpg:
 ![alt text](images/coast.jpg "San Mateo coast")  
 
-### Emojis
+### Links to resources
 
-https://gist.github.com/rxaviers/7360908
+Emojis: https://gist.github.com/rxaviers/7360908  
 
-
-There is a lot more: check out https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet where a lot of this came from.
+There is a lot more formatting you can do: check out https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet where a lot of this came from.
