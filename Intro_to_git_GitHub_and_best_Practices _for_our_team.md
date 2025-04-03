@@ -7,7 +7,7 @@
   
 [Using GitHub](#using-github)  
 - [Forking to display personal repo in BioDiv-git](#forking-to-display-personal-repo-in-biodiv-git-or-vice-versa)  
-- [How to make a new repo]  
+- [How to make a new repo](#how-to-make-a-new-repo)  
 - [How to make a markdown file]  
 
 
@@ -56,9 +56,21 @@ This is if you want to collaborate on code for a project with someone so that th
 3) They will get an email with the collaboration invite which they will have to accept.
 
 ## How to make a new repo
+1) Go to your repositories by clicking on your icon at the top right corner for the drop down menu and click "Your repositories"
+2) Click on the geen icon with a book(?) icon
+3) fill in required fields - Name, can write a description, click private unless you want it public, click make README.md  
+4) once you click "make repo" this will take you to your repo
+5) to make a new.md file or upload a file click on "add file" upper right
+
+## What should go into a README.md file
+A README.md typically explains what the project is about. If we are using GitHub to keep a record of the projects so that others without detailed knowledge of it can follow along here are some pirces of info that will likely be very helpful.  
+1) Basic premise of study - questions that need to be answered  
+2) Billing code (? maybe)
+3) Where is the data stored and what format (ex: 150SE ddRADseq)  
+4) Is there a markdown file with analysis steps already taken - if so, where.  
 
 ## How to make a markdown file
-
+1) to make a new.md file or upload a .md (or any file) click on "add file" upper right  
 ### Cheat sheet for .md file
 
 link
