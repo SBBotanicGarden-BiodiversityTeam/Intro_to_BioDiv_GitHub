@@ -115,7 +115,8 @@ Similar to linking but within your doc. The format is:
 ### Images
 `![alt text](http://url/to/img.png)`  
 
-![alt text](https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/tree/7f928d33a721386e0f8d2def08b59c6b147a4ac6/images/VMMV_pycno_k9_ordered.pdf)
+
+![alt text](https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/tree/7f928d33a721386e0f8d2def08b59c6b147a4ac6/images/VMMV_pycno_k9_ordered_copy.png)
 
 
 ### Emojis
