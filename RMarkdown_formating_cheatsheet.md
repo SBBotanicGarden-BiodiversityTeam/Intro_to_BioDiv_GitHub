@@ -63,3 +63,4 @@ You can run each code block one by but clicking the green "play" icon at the upp
 ## Knit
 To save the results of the run in html (or pdf or word) format, click the knit icon of a blue yarn ball. This will have a time stamp and all output printed to you Rmd. When it "knits", it basically reruns everything to print in html so, heads up, it can take a while depending on the analyses. 
 
+test double edit 
