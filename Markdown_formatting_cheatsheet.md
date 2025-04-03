@@ -143,11 +143,11 @@ Similar to linking but within your doc. The format is:
 ### Images
 `![alt text](direct/path/to/img.png)`  
 
-    Here is a .jpg:  
-    ![alt text](images/coast.jpg "San Mateo coast")
+    "results of Evano method plot:"  
+    ![alt text](images/test.jpg "deltaK plot for VMMV")
     
-Here is a .jpg:  
-![San Mateo coast](images/coast.jpg "San Mateo coast")  
+"results of Evano method plot:"
+![deltaK](images/test.jpg "deltaK plot for VMMV")  
 
 ### Links to resources
 
