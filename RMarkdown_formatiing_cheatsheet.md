@@ -5,7 +5,7 @@ To make an Rmd, once you have Rstudio open, go to File>New File>Rmarkdown
 Name your file, and pick the format you want your output Rmd - I go with html
 
 ## Formatting 
-Formatting is very similar to [.md]( ) files. Headers, emphasis (bold,italics,numbering,bullets) are the same.  \
+Formatting is very similar to [.md](Markdown_formatting_cheatsheet.md) files. Headers, emphasis (bold,italics,numbering,bullets) are the same.  \
 This is a good cheat sheet for Rmd file formatting: https://r02pro.github.io/rmd-text-formating.html  \
 The main differences that I use that are different are:  
 1) Rmd table of contents (basically automatic)
