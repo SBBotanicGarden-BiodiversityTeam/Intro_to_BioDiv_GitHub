@@ -74,7 +74,7 @@ A README.md typically explains what the project is about. If we are using GitHub
 2) To make a new.md file or upload a .md (or any file) click on "add file" upper right  
 ### Cheat sheet for .md file
 
-link
+[link to .md formatting cheat sheet](https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/blob/9286b03a988e7e9c387a1127deb8b9bbe0cac65b/Markdown_formatting_cheatsheet.md)
 
 ##
 
