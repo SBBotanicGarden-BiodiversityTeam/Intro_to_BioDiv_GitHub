@@ -10,6 +10,8 @@
 - [How to make a new repo](#how-to-make-a-new-repo)  
 - [How to make a markdown file](#how-to-make-a-markdown-file)
 
+[Best_Practices](#best-practices)
+
 
 ## What is git, GitHub, GitDesktop (or other version control system (VCS) GUI)
 
