@@ -65,11 +65,13 @@ This is if you want to collaborate on code for a project with someone so that th
 5) to make a new.md file or upload a file click on "add file" upper right
 
 ## What should go into a README.md file
-A README.md typically explains what the project is about. If we are using GitHub to keep a record of the projects so that others without detailed knowledge of it can follow along here are some pirces of info that will likely be very helpful.  
+A README.md typically explains what the project is about. If we are using GitHub to keep a record of the projects so that others without detailed knowledge of it can follow along here are some pieces of info that will likely be very helpful.  
+Ideas for helpful info:  
 1) Basic premise of study - questions that need to be answered  
 2) Billing code (? maybe)
 3) Where is the data stored and what format (ex: 150SE ddRADseq)  
-4) Is there a markdown file with analysis steps already taken - if so, where.  
+4) Is there a markdown file with analysis steps already taken - if so, where.
+5) Other folks/collaborators who have info on the project 
 
 ## How to make a markdown file
 1) Go to into the repository that you want the new file in  
