@@ -127,7 +127,7 @@ Reference-style:
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
-![alt text](https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/images/VMMV_pycno_k9_ordered_copy.png "VMMV k=9")
+![image](https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/images/VMMV_pycno_k9_ordered_copy.png "VMMV k=9")
 
 
 ### Emojis
