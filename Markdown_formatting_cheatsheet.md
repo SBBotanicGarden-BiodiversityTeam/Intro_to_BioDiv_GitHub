@@ -114,7 +114,7 @@ Similar to linking but within your doc. The format is:
 
 ### Images
 `![alt text](http://url/to/img.png)`  
-![alt text](images/VMMV_pycno_k9_ordered.pdf)
+![alt text](https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/tree/7f928d33a721386e0f8d2def08b59c6b147a4ac6/images/VMMV_pycno_k9_ordered.pdf)
 
 (https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/tree/7f928d33a721386e0f8d2def08b59c6b147a4ac6/images)  
 ![alt_text](https://github.com/SBBotanicGarden-BiodiversityTeam/Intro_to_BioDiv_GitHub/blob/e4cfdc4411d579a816fac7e0492a03513540c981/images/VMMV_pycno_k10_ordered%20copy.png)
