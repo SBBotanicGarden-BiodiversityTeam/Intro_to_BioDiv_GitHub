@@ -6,7 +6,8 @@
 -[Emphasis- bold, italics](#emphasis)  \
 -[Lists and bullet points](lists-and-bullet-points)  \
 -[Table of contents](#table-of-contents)  \
--[images](#images)  
+-[Images](#images)  
+-[Links for resources](#emojis)
 
 ## Basic instruction for creating an .md (markdown) file on GitHub
 Within a repository, we make, store, edit markdown files which help us keep track of our pipeline, code, results, other documents, other folders of documents. 
