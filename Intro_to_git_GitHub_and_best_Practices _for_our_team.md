@@ -82,4 +82,4 @@ A README.md typically explains what the project is about. If we are using GitHub
 
 # Best Practices
 ## Code writing conventions
-## What info to include in a repo README.md
+## Minumun info to include
