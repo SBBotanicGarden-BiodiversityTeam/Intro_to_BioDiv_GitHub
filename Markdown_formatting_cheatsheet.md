@@ -8,14 +8,18 @@
 -[Table of contents](#table-of-contents)  
 
 ## Basic instruction for creating an .md (markdown) file on GitHub
-Within a repository, we make, store, edit, all sorts of things - markdown files (help us keep track of our pipeline), code, results, other documents, other folders of documents. Here we focus on the markdown file. 
+Within a repository, we make, store, edit markdown files which help us keep track of our pipeline, code, results, other documents, other folders of documents. 
 
 To make a markdown file, click on the "Add file" at the top right of the inner window. This will open a fresh file where you can compose your new file. This can be a markdown file, straight code, etc. 
 
-A markdown file helps to keep track of your pipeline and parameters you used so that it is reproducible. **It is only as good as the extent to which you document it.** To make a markdown file, name your file something descriptive with a `.md` end in the space at the top right.
+You will want to name your file with a `.md` at the end of the name in the open field at the top.
+
+This is also, where you can make the folder in the repo where you want this .md file stored. you do this by first typing the name of the desired folder, then a `/` then the name of your .md
+
+A markdown file helps to keep track of your pipeline and parameters you used so that it is reproducible. **It is only as good as the extent to which you document it.** 
 
 ## Editing an .md file and "commiting changes"
-Before we get into formatting, the green Commit Changes button at the top right is key. Once you have written something in the window, click commit changes, and then if you wish, add a note about what you did to the doc, and then click commit changes again. You will see the fruits of what you have written in html format. This act of commiting changes essentially functions as a `Save` button. If you close the window with out commiting changes, you will lose whatever you just did before the most recent "Commit Changes". If you want to edit again, click on the pen icon at the top right. 
+Now that we have a new .md file, before we get into formatting, the green Commit Changes button at the top right is key. Once you have written something in the window, click commit changes, and then if you wish, add a note about what you did to the doc, and then click commit changes again. You will see the fruits of what you have written in html format. This act of commiting changes essentially functions as a `Save` button. If you close the window with out commiting changes, you will lose whatever you just did before the most recent "Commit Changes". If you want to edit again, click on the pen icon at the top right. 
 
 ## Formatting for a GitHub markdown file
 *For all formatting examples, if possible I will put what is typed into the codespace as well as what that looks like once we commit changes.*
@@ -121,7 +125,9 @@ Similar to linking but within your doc. The format is:
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  
+![alt text](/images/icon48.png "Logo Title Text 1")  
+
+Blah
 ![alt text](images/VMMV_pycno_k9_ordered.pdf "k9")  
 
 Reference-style: 
