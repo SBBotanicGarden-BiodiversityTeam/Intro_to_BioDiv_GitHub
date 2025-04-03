@@ -30,7 +30,7 @@ Normal text can be written, well, normally
 
 If you want lines of text the stack,  
 then you need to put either  
-two spaces or a \
+two spaces then enter or \ followed by `enter`\
 to denote where we would usually put `enter`
 
 To put anything in codespace window, you just indent those lines one or more tabs:
