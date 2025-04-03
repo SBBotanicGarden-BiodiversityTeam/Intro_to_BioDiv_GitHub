@@ -12,7 +12,7 @@ The main differences that I use that are different are:
 2) using r language identifyers for sections of script
 
 ### Table of contents
-All you have to do is add the `toc:true` line and Rmd with automatically build your table of contents for you based on your headers. You can give it more instructions like I did in the example below. This toc will have the 3 top level headers, will slide around with you whereever you are in the html, and will show the whole toc at all time (you can hve it collaps to its most basic headers when you're not hovering over it)  
+All you have to do is add the `toc:true` line (as shown below) and Rmd with automatically build your table of contents for you based on your headers. You can give it more instructions like I did in the example below. This toc will have the 3 top level headers, will slide around with you whereever you are in the html, and will show the whole toc at all time (you can hve it collaps to its most basic headers when you're not hovering over it)  
 
     ---
     title: "AUTOMATIC_from when you make the .Rmd"
